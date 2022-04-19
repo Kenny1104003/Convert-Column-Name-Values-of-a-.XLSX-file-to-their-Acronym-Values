@@ -3,7 +3,7 @@ Project By- Khushvardhan and Jayvardhan Bhardwaj
 This Project contains the code as well as sample file which can change the Column Values to their Acronyms.  Along with this it can will write single word column names as it is and will present all the subsection (represented by enclosing them in bracket in original file) with columnname_subsection format. Read the Read.me file to understand the working of whole code.
 
 Libraries Used:-
-1.	Openpyxl – Importing this library will help me to access .xlsx file data. 
+1.	Openpyxl – Importing this library will help me to access .xlsx file data done. 
 2.	Pandas – Importing this library will make it easier to perform actions on our data file.
 3.	Re- The Python module re provides full support for Perl-like regular expressions in Python.
 4.	String – To work on strings using complex libraries.
